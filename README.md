@@ -1,1 +1,1 @@
-# Git_Github
+# Git and Github workshop
